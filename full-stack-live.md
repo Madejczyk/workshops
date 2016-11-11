@@ -23,3 +23,4 @@
 1. [Full Stack Live 1](https://livestream.com/accounts/4894689/events/6621548/videos/141601082)
 2. [Full Stack Live 2](https://livestream.com/accounts/4894689/events/6621548/videos/141611631)
 3. [Full Stack Live 3 - Digital Ocean Setup](https://livestream.com/accounts/4894689/events/6621548/videos/141614627)
+4. [Full Stack Live 4](https://livestream.com/accounts/4894689/events/6621548/videos/141625395)
