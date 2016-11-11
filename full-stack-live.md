@@ -13,6 +13,9 @@
 * [ssh config tips](http://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/)
 * [Digital Ocean Referral Sign up Link - Get $10 credit](https://m.do.co/c/5bee9b36ba5c)
 * [My First 10 minutes on a server](http://www.codelitt.com/blog/my-first-10-minutes-on-a-server-primer-for-securing-ubuntu/)
+* poly sh
+* http://www.fail2ban.org/wiki/index.php/Main_Page
+* [fail2ban setup on Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-protect-ssh-with-fail2ban-on-ubuntu-14-04)
 
 ## Livestream / Video Links
 
