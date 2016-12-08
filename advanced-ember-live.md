@@ -6,7 +6,7 @@
 * [Video Player](https://frontendmasters.com/live-event/advanced-ember-live/)
 
 Raw videos of this workshop will be available for playback
-*immendately* after we cut them (shortly after each break in the
+*immedietly* after we cut them (shortly after each break in the
 day). You can get the video segments by clicking the little drawer
 icon in the upper right corner of the video player:
 
