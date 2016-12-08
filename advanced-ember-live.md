@@ -5,6 +5,11 @@
 
 * [Video Player](https://frontendmasters.com/live-event/advanced-ember-live/)
 
+### Video Sections
+
+1. [Intro, setup](https://livestream.com/accounts/4894689/events/6731333/videos/143811425)
+1. 
+
 Raw videos of this workshop will be available for playback
 *immendately* after we cut them (shortly after each break in the
 day). You can get the video segments by clicking the little drawer
