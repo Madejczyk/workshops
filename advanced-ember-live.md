@@ -22,4 +22,5 @@ material.
 ## Links
 
 * [Setup Instructions](https://gist.github.com/mike-north/35684b7a22c2b88da780917d62f01d59)
+* [Project Repo](https://github.com/mike-north/fem-ember-commently)
 * [Slides](https://drive.google.com/file/d/0B7LIdu29tPZRajIzbHRwNnRVMkk/view)
