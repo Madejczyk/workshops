@@ -23,5 +23,4 @@ material.
 
 * [Setup Instructions](https://gist.github.com/mike-north/35684b7a22c2b88da780917d62f01d59)
 * [Project Repo](https://github.com/FrontendMasters/ember-commently/)
-* [Slides](https://drive.google.com/file/d/0B7LIdu29tPZRajIzbHRwNnRVMkk/view)
-* [Slides Day Two](https://drive.google.com/file/d/0B7LIdu29tPZRVXFGN01EUXF4Vlk/view)
+* [Slides](https://drive.google.com/file/d/0B7LIdu29tPZRVXFGN01EUXF4Vlk/view)
